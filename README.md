@@ -16,3 +16,10 @@ In short, if you want to get the same evaluation results as in the paper, run ve
 If you want to better understand the paper through the code, please refer to version 2. 
 
 Because the code may continue to change during the revision period, we will release the final and most complete code after the paper is accepted. 
+
+3 use "python test.py" to run the code. 
+write the test datasets in "test.py"
+
+4 the model can be downloaded by link"xxx".
+
+5 the saliency maps of ACDNet-V, ACDNet-R, ACDNet-T can be downloaded by link"xxx".
