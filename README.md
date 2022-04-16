@@ -20,6 +20,9 @@ Because the code may continue to change during the revision period, we will rele
 3 use "python test.py" to run the code. 
 write the test datasets in "test.py"
 
-4 the model can be downloaded by link"xxx".
+4 the model can be downloaded by link"https://pan.baidu.com/s/1CPOtGoJia08UbjLLPXnTjw" 提取码: qnij.
 
-5 the saliency maps of ACDNet-V, ACDNet-R, ACDNet-T can be downloaded by link"xxx".
+5 the saliency maps of ACDNet-V, ACDNet-R, ACDNet-T can be downloaded by link"https://pan.baidu.com/s/1CPOtGoJia08UbjLLPXnTjw" 提取码: qnij.
+
+
+链接: https://pan.baidu.com/s/1CPOtGoJia08UbjLLPXnTjw 提取码: qnij 复制这段内容后打开百度网盘手机App，操作更方便哦
